@@ -14,7 +14,7 @@ No internet required — data is stored locally in a simple text file.
     Important Considerations:
     Security Risks:
     Installing apps from unknown sources can expose your device to security risks, so be cautious about the sources you trus
-- Download the PersonalTaskManager-release-v1.0.apk and that's it!
+- Download the [PersonalTaskManager-release-v1.0.apk](https://example.com) and that's it!
 
 ## Features
 
