@@ -25,17 +25,17 @@ No internet required — data is stored locally in a simple text file.
 
 ## Screenshots
 
-### Add Task
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4eedab8-e09c-459a-871f-2ff3de6b5630" width="400" alt="addtask"/>
 </p>
 
-### Task List
-![tasklist](https://github.com/user-attachments/assets/603ecd26-e1a3-4b04-b0f3-d9d873065d9e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/603ecd26-e1a3-4b04-b0f3-d9d873065d9e" width="400" alt="addtask"/>
+</p>
 
-### Complete Task
-![Complete](https://github.com/user-attachments/assets/3b130965-320a-41cf-8b38-a9ca5679555a)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b130965-320a-41cf-8b38-a9ca5679555a" width="400" alt="addtask"/>
+</p>
 
 ## License
 
