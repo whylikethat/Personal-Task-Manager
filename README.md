@@ -30,11 +30,11 @@ No internet required — data is stored locally in a simple text file.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/603ecd26-e1a3-4b04-b0f3-d9d873065d9e" width="200" alt="addtask"/>
+  <img src="https://github.com/user-attachments/assets/603ecd26-e1a3-4b04-b0f3-d9d873065d9e" width="400" alt="addtask"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b130965-320a-41cf-8b38-a9ca5679555a" width="200" alt="addtask"/>
+  <img src="https://github.com/user-attachments/assets/3b130965-320a-41cf-8b38-a9ca5679555a" width="400" alt="addtask"/>
 </p>
 
 ## License
