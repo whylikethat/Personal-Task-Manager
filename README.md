@@ -25,7 +25,7 @@ No internet required — data is stored locally in a simple text file.
 
 ## Screenshots
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/b4eedab8-e09c-459a-871f-2ff3de6b5630" width="400" alt="addtask"/>
 </p>
 
