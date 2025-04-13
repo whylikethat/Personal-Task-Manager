@@ -3,6 +3,11 @@
 Offline personal task manager Android app built with Kotlin and Jetpack Compose.  
 No internet required — data is stored locally in a simple text file.
 
+## Installation
+
+- This app is not available on the Google Play Store so first, you need to Allow Install from Unknown Sources on your Android Device.
+- Download the app.apk and that's it!
+
 ## Features
 
 - Add, view, and manage tasks
@@ -14,12 +19,6 @@ No internet required — data is stored locally in a simple text file.
 ## Screenshots
 
 *(Insert screenshots here later if you want)*
-
-## How to Build
-
-1. Clone the repository
-2. Open in Android Studio
-3. Run on emulator or physical device
 
 ## License
 
