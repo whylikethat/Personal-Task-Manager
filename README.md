@@ -14,14 +14,13 @@ No internet required — data is stored locally in a simple text file.
     Important Considerations:
     Security Risks:
     Installing apps from unknown sources can expose your device to security risks, so be cautious about the sources you trus
-- Download the [PersonalTaskManager-release-v1.0.apk](https://github.com/whylikethat/Personal-Task-Manager/releases/download/Mobile/PersonalTaskManager-release-v1.0.apk) and that's it!
+- Download the [PersonalTaskManager-release-v1.0.apk](https://github.com/whylikethat/Personal-Task-Manager/releases/download/Mobile/PersonalTaskManager-release-v1.0.apk) and authorize the installation if prompted.
 
 ## Features
 
 - Add, view, and manage tasks
 - Set priority and contact email
 - Mark tasks as complete (sends summary email)
-- Dark mode support
 - 100% offline functionality
 
 ## Screenshots
