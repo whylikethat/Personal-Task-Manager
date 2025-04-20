@@ -1,5 +1,5 @@
 # Personal Task Manager 📝
-                                                                                                DOWNLOAD NOW ------------------->
+
 Offline personal task manager Android app built with Kotlin and Jetpack Compose.  
 No internet required — data is stored locally in a simple text file.
 
